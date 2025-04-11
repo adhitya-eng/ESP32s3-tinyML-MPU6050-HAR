@@ -57,3 +57,10 @@ Below is an example of the prediction results shown in the Serial Monitor:
 
 ![Activity Prediction](image/serial_monitor_output.png)
 
+## 🖼️ Board Image
+
+Below is the image of the board:
+
+![Board Image](image/1000060124.jpg)
+
+
