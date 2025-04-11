@@ -50,3 +50,10 @@ This project is part of my exploration in:
 
 Feel free to explore, fork, or reach out!  
 🧠 Built with help from ChatGPT and open-source tools.
+
+## 🖼️ Activity Prediction
+
+Below is an example of the prediction results shown in the Serial Monitor:
+
+![Activity Prediction](images/serial_monitor_output.png)
+
