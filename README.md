@@ -28,13 +28,6 @@ The machine learning model is trained using the dataset from [Kaggle's Human Act
 
 > ⚠️ The model file is **not uploaded** here. If you're interested, please train your own or use tools like [Edge Impulse](https://edgeimpulse.com) or [Teachable Machine](https://teachablemachine.withgoogle.com/).
 
-## 🖼️ Activity Prediction
-
-Below is an example of the prediction results shown in the Serial Monitor:
-
-![Activity Prediction](images/serial_monitor_output.png)
-
-
 ## 🔧 How to Use
 1. Clone this repo
 2. Open `src/main.ino` in Arduino IDE
