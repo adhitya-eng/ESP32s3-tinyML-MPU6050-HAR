@@ -55,5 +55,5 @@ Feel free to explore, fork, or reach out!
 
 Below is an example of the prediction results shown in the Serial Monitor:
 
-![Activity Prediction](images/serial_monitor_output.png)
+![Activity Prediction](image/serial_monitor_output.png)
 
